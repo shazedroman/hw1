@@ -1,0 +1,19 @@
+@font-face{
+	font-family: Raleway-Bold;
+	src: url(../font/raleway/Raleway-Bold.ttf);
+}
+
+@font-face{
+	font-family: Raleway-Light;
+	src: url(../font/raleway/Raleway-Light.ttf);
+}
+
+h1{
+	font-family: Raleway-Light;
+	font-weight: 300;
+}
+
+h2{
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+}
